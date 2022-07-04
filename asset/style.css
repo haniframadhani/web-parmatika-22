@@ -1,0 +1,46 @@
+:root {
+    --white: #fff;
+    --primary-dark-100: #E5F8FF;
+    --primary-dark-200: #B3EBFF;
+    --primary-dark-300: #80DEFF;
+    --primary-dark-400: #4DD1FF;
+    --primary-dark-500: #1AC4FF;
+    --primary-dark-600: #00AAE6;
+    --primary-dark-700: #0084B3;
+    --primary-dark-800: #005F80;
+    --primary-dark-900: #00394D;
+    --primary-dark-000: #00171F;
+    --primary-light-200: #E5F8FF;
+    --primary-light-300: #B3EAFF;
+    --primary-light-400: #80DCFF;
+    --primary-light-500: #4CCEFF;
+    --primary-light-600: #1AC0FF;
+    --primary-light-700: #00A8E8;
+    --primary-light-800: #005C80;
+    --primary-light-900: #00374D;
+    --primary-light-000: #00121A;
+    --primary-medium-100: #E5F4FF;
+    --primary-medium-200: #B3DFFF;
+    --primary-medium-300: #80CAFF;
+    --primary-medium-400: #4DB5FF;
+    --primary-medium-500: #1AA0FF;
+    --primary-medium-600: #0086E6;
+    --primary-medium-700: #0068B3;
+    --primary-medium-800: #004A80;
+    --primary-medium-900: #003459;
+    --primary-medium-000: #000F1A;
+    --primary-regular-100: #E5F9FF;
+    --primary-regular-200: #DBF6FF;
+    --primary-regular-300: #A8EAFF;
+    --primary-regular-400: #75DDFF;
+    --primary-regular-500: #42D1FF;
+    --primary-regular-600: #0FC4FF;
+    --primary-regular-700: #00A5DB;
+    --primary-regular-800: #007EA7;
+    --primary-regular-900: #003242;
+    --primary-regular-000: #000C0F;
+}
+
+/* 
+lihat disini cara pakenya
+https: //www.w3schools.com/css/css3_variables.asp */
